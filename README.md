@@ -25,6 +25,11 @@
   <img src=".github/details-mobile.jpg" alt="Details" height="425">
 </div>
 
+<ul>
+  <li><a href="https://github.com/sartero/ecoleta-backend">Backend</a></li>
+  <li><a href="https://github.com/sartero/ecoleta-frontend-web">Frontend Web</a></li>
+</ul>
+
 ## 🧰 Techs
 
 [//]: # "Add the features of your project here:"
@@ -37,6 +42,8 @@
 ## 💻 Getting started
 
 ##### Note: Note: You need an Android / iOS device or emulator. You can see how to do this in this <a href="https://react-native.rocketseat.dev/">Rocketseat Guide</a>
+
+##### Note: You need to have the Backend of the application running. <a href="https://github.com/sartero/ecoleta-backend">You get it here.</a>
 
 1. Clone this repo using <code>https://github.com/sartero/ecoleta-frontend-mobile.git</code>
 2. Move to the appropiate directory: <code>cd mobile</code>
