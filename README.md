@@ -5,7 +5,7 @@
   Ecoleta Frontend Mobile
 </h1>
 
-<p align="center">Network design of recyclable waste collection points. ♻</p>
+<p align="center">Network design of recyclable waste collection points.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
