@@ -16,7 +16,7 @@
 ## 📜 Features
 
 <ul>
-  <li><p>See locations that provide collection in your vicinity.</p></li>
+  <li><p>See locations that offer collection nearby. Get in touch via Whatsapp or Email.</p></li>
 </ul>
 
 <div align="center">
